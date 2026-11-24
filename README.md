@@ -1,5 +1,4 @@
-# wifi-security-toolkit
-Educational Python toolkit for Wi-Fi security awareness, network diagnostics and authorized Wi-Fi Security Toolkit 🔐
+Wi-Fi Security Toolkit 🔐
 
 An educational Python toolkit for Wi-Fi security awareness, local network diagnostics, and defensive cybersecurity learning.
 
@@ -15,7 +14,9 @@ Requirements
 
 * Python 3.9 or newer.
 
-Installation
+Installationgit clone https://github.com/rouuttanmaya-jpg/wifi-security-toolkit.git
+cd wifi-security-toolkit
+
 
 Clone this repository:
 
@@ -24,7 +25,7 @@ cd wifi-security-toolkit
 
 Usage
 
-Run:
+Run:python main.py
 
 python main.py
 
@@ -51,4 +52,3 @@ This project is provided for educational purposes. Always obtain authorization b
 License
 
 MIT License.
-
